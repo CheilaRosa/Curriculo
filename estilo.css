@@ -1,0 +1,77 @@
+* {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+  }
+  
+  body, html {
+    padding: 3px 3px 3px 3px;
+  
+    background-color: #1fddeb;
+  
+    font-family: Verdana, sans-serif;
+    font-size: 15pt;
+    text-align: center;
+  }
+  
+  div.main_page {
+    position: relative;
+    display: table;
+  
+    width: 800px;
+  
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+  
+    border-width: 2px;
+    border-color: #212738;
+    border-style: solid;
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+  
+  div.redes-sociais{
+    display: inline;
+  }
+  
+  a:link, a:visited {
+    background-color: #1fddeb;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #380ef3;
+  }
+  
+  ul {
+      padding: 4px 8px 4px 16px;
+      text-align: left;
+  }
+  li{
+    margin-left: 50px;
+  }
+  
+  h1{
+    text-align: #380ef3;
+  }
+  
+  h2{
+    text-align: left;
+  }
+  
+  h3{
+    color: #380ef3;
+    padding-top: 15px;
+    Padding-bottom: 15px;
+  }
+  
+  p{
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
